@@ -1507,7 +1507,7 @@ co_occ_results <- mclapply(
   X = radius_values,
   FUN = function(r) {
     calc_co_occurrence_for_radius(
-      seurat_obj          = ste,  Ω
+      seurat_obj          = ste,
       radius              = r,
       sample_key          = "sample_id", 
       cluster_key         = cluster_col, 
