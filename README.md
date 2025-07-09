@@ -1,4 +1,6 @@
-# Analytic codes for JIA-synovium Xenium data analysis
+# Subcellular spatial transcriptomics reveals immune–stromal crosstalk within the synovium of patients with juvenile idiopathic arthritis
+
+Analytic codes for JIA-synovium Xenium data analysis
 
 R package for spatial neighborhood analysis (spatialCooccur) can be downloaded from here [here](https://github.com/juninamo/spatialCooccur) 
 
