@@ -32,12 +32,13 @@ For questions or issues related to this tutorial, please contact;
 **Email:** jun.inamo@cuanschutz.edu  
 **Affiliation:** Computational Omics and Systems Immunology (COSI) Lab, Division of Rheumatology and Center for Health AI, University of Colorado School of Medicine, CO, USA 
 
-The data presented here comes from the [Yomogida lab](https://www.yomogidalab.com/) through collaborating with [XXX](https://www.XXX) and [YYY](https://www.XXX).
+The data presented here comes from the [Yomogida lab](https://www.yomogidalab.com/).
 
 ## ✅ Acknowledgments
-This research was supported by Japan Society for the Promotion of Science (JSPS) Grant-in-Aids for JSPS XXX. 
-
-&nbsp;&nbsp;
+This work was supported by the Uehara Memorial Foundation Postdoctoral Fellowship, a Grant-in-Aid for Japan Society for the Promotion of Science Overseas Research Fellows, the Mochida Memorial Foundation for Medical and Pharmaceutical Research (to J.I.), K08DK128544 (K.Y.). 
+We acknowledge the Accelerating Medicines Partnership (AMP): Rheumatoid Arthritis and Systemic Lupus Erythematosus (AMP RA/SLE) Network for providing the data used in this study, specifically the RA CITE-seq dataset (SynID: syn52297840, Release 1.5/V7). 
 
 ## License
 This repository is provided under the MIT License.
+
+&nbsp;&nbsp;
