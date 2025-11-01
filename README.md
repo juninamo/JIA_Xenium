@@ -1,4 +1,4 @@
-# Subcellular spatial transcriptomics reveals immune–stromal crosstalk within the synovium of patients with juvenile idiopathic arthritis
+# Spatial transcriptomics reveals immune–stromal crosstalk within the synovium of patients with juvenile idiopathic arthritis
 
 Analytic codes for JIA-synovium Xenium data analysis
 
