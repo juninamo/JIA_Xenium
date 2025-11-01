@@ -8,7 +8,6 @@ R package for spatial neighborhood analysis (spatialCooccur) can be downloaded f
 
 ```
 ├── codes/
-│   ├── preprocess.R                                 # Preprocessing of Xenium data
 │   ├── Overview.ipynb                               # (1) Overview of Xenium data, (2) Association test of clinical variables, and (3) Integrative analysis with GWAS data
 │   ├── Spatial_Niche.ipynb                          # Spatial niche analysis
 │   ├── Spatial_Neighborhood_Analysis_FibEndo.ipynb  # (1) Spatial Neighborhood analysis, and (2) Spatial association between fibroblasts and endothelial cells
