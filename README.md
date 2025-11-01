@@ -29,7 +29,7 @@ Jun Inamo, et al. Subcellular spatial transcriptomics reveals immune–stromal c
 For questions or issues related to this tutorial, please contact;
 
 **Name:** Jun Inamo  
-**Email:** juninamo@keio.jp
+**Email:** juninamo@keio.jp  
 **Affiliation:** Division of Rheumatology, Department of Internal Medicine, Keio University School of Medicine
 
 The data presented here comes from the [Yomogida lab](https://www.yomogidalab.com/).
