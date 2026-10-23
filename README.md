@@ -2,7 +2,13 @@
 
 Analytic codes for JIA-synovium Xenium data analysis
 
-R package for spatial neighborhood analysis (spatialCooccur) can be downloaded from here [here](https://github.com/juninamo/spatialCooccur) 
+📄 **Published in *JCI Insight* (2026)**: [https://insight.jci.org/articles/view/198074](https://insight.jci.org/articles/view/198074)
+
+R package for spatial neighborhood analysis (spatialCooccur) can be downloaded from [here](https://github.com/juninamo/spatialCooccur).
+
+## 💾 Data availability
+- Raw and processed Xenium data are available at GEO under accession [GSE326837](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE326837).
+- The RA CITE-seq dataset used for comparison is available from the AMP RA/SLE Network under controlled access (SynID: syn52297840) and is not redistributed here.
 
 ## 📁 Folder structure
 
@@ -22,7 +28,9 @@ R package for spatial neighborhood analysis (spatialCooccur) can be downloaded f
 
 
 ## 📝 Citation 
-Jun Inamo, et al. Subcellular spatial transcriptomics reveals immune–stromal crosstalk within the synovium of patients with juvenile idiopathic arthritis. [*medRxiv 2025*](https://www.medrxiv.org/content/10.1101/2025.08.05.25332835v1), doi:[https://doi.org/10.1101/2025.08.05.25332835](https://doi.org/10.1101/2025.08.05.25332835)
+Inamo J, Fierkens R, Clay MR, Jonsson AH, Lin C, Hayes K, Rogers N, Leach H, Yomogida K. Spatial transcriptomics reveals immune–stromal crosstalk within the synovium of patients with juvenile idiopathic arthritis. *JCI Insight*. 2026;11(1):e198074. doi:[10.1172/jci.insight.198074](https://doi.org/10.1172/jci.insight.198074)
+
+Preprint: [*medRxiv* 2025](https://www.medrxiv.org/content/10.1101/2025.08.05.25332835v1), doi:[10.1101/2025.08.05.25332835](https://doi.org/10.1101/2025.08.05.25332835)
 
 ## 📬 Contact
 For questions or issues related to this tutorial, please contact;
